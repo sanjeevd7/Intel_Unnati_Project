@@ -4,9 +4,9 @@ import numpy as np
 import joblib
 
 # Load model, scaler, and column headers
-model = joblib.load('rf_model.pkl')
-scaler = joblib.load('scaler.pkl')
-model_columns = joblib.load('rf_features.pkl').columns.tolist()
+model = joblib.load('model/rf_model.pkl')
+scaler = joblib.load('model/scaler.pkl')
+model_columns = joblib.load('model/rf_features.pkl').columns.tolist()
 
 # Define original KDD feature names
 columns = ['duration','protocol_type','service','flag','src_bytes','dst_bytes','land','wrong_fragment','urgent','hot',
