@@ -4,7 +4,7 @@ It was developed as part of the **Intel® Unnati Industrial Training Program**.
 
 You can view the deployed app on: 
 ```
-[https://networkanalyse.streamlit.app/](https://networkanalyse.streamlit.app/)
+https://networkanalyse.streamlit.app/
 ```
 
 ## Run Locally
