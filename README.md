@@ -7,17 +7,6 @@ You can view the deployed app on:
 [https://networkanalyse.streamlit.app/](https://networkanalyse.streamlit.app/)
 ```
 
----
-
-## Features
-
-- Detects and classifies network packets in real time.
-- Uses a trained **Random Forest** model on the NSL-KDD dataset.
-- Supports single and bulk predictions via a user-friendly **Streamlit** interface.
-- Clean, modular architecture with reproducible training pipeline.
-
----
-
 ## Run Locally
 
 Follow these steps to run the app on your local machine:
