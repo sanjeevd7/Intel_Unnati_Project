@@ -22,3 +22,10 @@ Follow these steps to run the app on your local machine:
   ```
 The Dataset used to train the model is in the dataset directory.
 The project report can be found in the docs directory.
+
+
+## Project Demonstration
+To view the demonstration of this project, please open the following link -
+```
+https://drive.google.com/file/d/18sQAJxtG6qMNY9Lq-ZbKUjv_49u17DYA/view
+```
